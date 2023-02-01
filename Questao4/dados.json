@@ -1,0 +1,22 @@
+[
+	{
+		"estado": "SP",
+		"valorFaturado": 67836.44
+	},
+	{
+		"estado": "RJ",
+		"valorFaturado": 36678.66
+	},
+	{
+		"estado": "MG",
+		"valorFaturado": 29229.88
+	},	
+    {
+		"estado": "ES",
+		"valorFaturado": 27165.48
+	},
+    {
+		"estado": "Outros",
+		"valorFaturado": 19849.53
+	}
+]
