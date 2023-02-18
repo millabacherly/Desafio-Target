@@ -1,4 +1,5 @@
-1) Observe o trecho de código abaixo:
+Ex. 1) Observe o trecho de código abaixo:
+
 int INDICE = 13, SOMA = 0, K = 0;
 
 enquanto K < INDICE faça
@@ -8,6 +9,7 @@ SOMA = SOMA + K;
 }
 
 imprimir(SOMA);
-Ao final do processamento, qual será o valor da variável SOMA?
 
+Ao final do processamento, qual será o valor da variável SOMA?
+##
 R: SOMA = 91
